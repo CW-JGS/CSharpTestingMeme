@@ -1,0 +1,12 @@
+/home/frncm/projects/swin/CSharpTestingMeme/clib/bin/Debug/net6.0/clib.deps.json
+/home/frncm/projects/swin/CSharpTestingMeme/clib/bin/Debug/net6.0/clib.dll
+/home/frncm/projects/swin/CSharpTestingMeme/clib/bin/Debug/net6.0/ref/clib.dll
+/home/frncm/projects/swin/CSharpTestingMeme/clib/bin/Debug/net6.0/clib.pdb
+/home/frncm/projects/swin/CSharpTestingMeme/clib/obj/Debug/net6.0/clib.csproj.AssemblyReference.cache
+/home/frncm/projects/swin/CSharpTestingMeme/clib/obj/Debug/net6.0/clib.GeneratedMSBuildEditorConfig.editorconfig
+/home/frncm/projects/swin/CSharpTestingMeme/clib/obj/Debug/net6.0/clib.AssemblyInfoInputs.cache
+/home/frncm/projects/swin/CSharpTestingMeme/clib/obj/Debug/net6.0/clib.AssemblyInfo.cs
+/home/frncm/projects/swin/CSharpTestingMeme/clib/obj/Debug/net6.0/clib.csproj.CoreCompileInputs.cache
+/home/frncm/projects/swin/CSharpTestingMeme/clib/obj/Debug/net6.0/clib.dll
+/home/frncm/projects/swin/CSharpTestingMeme/clib/obj/Debug/net6.0/ref/clib.dll
+/home/frncm/projects/swin/CSharpTestingMeme/clib/obj/Debug/net6.0/clib.pdb

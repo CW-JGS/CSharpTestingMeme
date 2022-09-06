@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "clib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/clib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/clib.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "clib/1.0.0": {
+      "type": "project",
+      "path": "../clib/clib.csproj",
+      "msbuildProject": "../clib/clib.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "clib >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/home/frncm/.nuget/packages/": {}
@@ -31,7 +50,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/frncm/projects/swin/CSharpTestingMeme/clib/clib.csproj": {
+              "projectPath": "/home/frncm/projects/swin/CSharpTestingMeme/clib/clib.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
