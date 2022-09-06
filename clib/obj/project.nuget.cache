@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8yLCFs+lmjnd2ZKTTtOP/ckEzPehaWmVG/mqfcNjhJLAtyFB8mbudlbALhLzZ2xw3WUbG0zW2FWRiwDzbRdWdg==",
+  "success": true,
+  "projectFilePath": "/home/frncm/projects/swin/CSharpTestingMeme/clib/clib.csproj",
+  "expectedPackageFiles": [
+    "/home/frncm/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

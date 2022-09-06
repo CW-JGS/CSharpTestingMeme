@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zGDBKkSV/A8lBhvohmCjcigyJIJsATjWHD79HeLK0Wua4Ycgy+abkvWCpRog7k61/xSNDuphPV8jouAZ+WTMFw==",
+  "success": true,
+  "projectFilePath": "/home/frncm/projects/swin/CSharpTestingMeme/UI/UI.csproj",
+  "expectedPackageFiles": [
+    "/home/frncm/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
